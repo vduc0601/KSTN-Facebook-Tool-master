@@ -1,0 +1,85 @@
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\iOne Facebook Tool\obj\Debug\iOne Facebook Tool.exe
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\KSTN Facebook Tool\obj\Debug\iOne Facebook Tool.exe
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\obj\Debug\KSTN Facebook Tool.csprojResolveAssemblyReference.cache
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\obj\Debug\KSTN Facebook Tool.csproj.GenerateResource.Cache
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\KSTN Facebook Tool.exe
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\KSTN Facebook Tool.pdb
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\obj\Debug\KSTN_Facebook_Tool.Properties.Resources.resources
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\obj\Debug\KSTN Facebook Tool.exe
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\obj\Debug\KSTN Facebook Tool.pdb
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\obj\Debug\KSTN_Facebook_Tool.LoadingForm.resources
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\obj\Debug\KSTN_Facebook_Tool.MainForm.resources
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\KSTN Facebook Tool.exe.config
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\Microsoft.Threading.Tasks.dll
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\System.IO.dll
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\System.Runtime.dll
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\System.Threading.Tasks.dll
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\Microsoft.Threading.Tasks.xml
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\System.IO.xml
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\System.Runtime.xml
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\System.Threading.Tasks.xml
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\obj\Debug\KSTN Facebook Tool.csproj.App.config
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\ThoughtWorks.Selenium.Core.xml
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\WebDriver.pdb
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\WebDriver.xml
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\WebDriver.Support.pdb
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\WebDriver.Support.xml
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\obj\Debug\Interop.AutoItX3Lib.dll
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\obj\Debug\KSTN Facebook Tool.csproj.ResolveComReference.cache
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\ThoughtWorks.Selenium.Core.dll
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\WebDriver.dll
+E:\BAITAP_PROJECTS\KSTN Facebook Tool\bin\Debug\WebDriver.Support.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\obj\Debug\KSTN Facebook Tool.csproj.App.config
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\System.IO.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\System.Runtime.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\WebDriver.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\WebDriver.Support.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\System.IO.xml
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\System.Runtime.xml
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\System.Threading.Tasks.xml
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\WebDriver.pdb
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\WebDriver.xml
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\WebDriver.Support.pdb
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\WebDriver.Support.xml
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\obj\Debug\KSTN_Facebook_Tool.LoadingForm.resources
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\obj\Debug\KSTN_Facebook_Tool.MainForm.resources
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\obj\Debug\KSTN_Facebook_Tool.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\obj\Debug\KSTN Facebook Tool.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\System.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\System.Net.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\System.Windows.Forms.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\System.Xml.Linq.dll
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\Facebook Tool.exe.config
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\Facebook Tool.exe
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\Facebook Tool.pdb
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\obj\Debug\Facebook Tool.exe
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\obj\Debug\Facebook Tool.pdb
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\obj\Debug\KSTN_Facebook_Tool.License.resources
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\obj\Debug\KSTN_Facebook_Tool.TermsPolicies.resources
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\close2.png
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\min2.png
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\close1.png
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\bin\Debug\min1.png
+C:\Users\Admin\Documents\GitHub\KSTN-Facebook-Tool\obj\Debug\KSTN Facebook Tool.csprojResolveAssemblyReference.cache
